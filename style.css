@@ -1,0 +1,29 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+
+.Primero {
+    color: aqua;
+}
+
+.una{
+
+align-items: center;
+width: 75px;
+height: 45px;
+
+}
+
+h1,
+h2{
+
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+body{
+
+    margin: 0;
+}
